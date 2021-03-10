@@ -1,6 +1,6 @@
 # FP-Markdown 
 
-`Sandro Pinto`
+`Sandro Miguel Pinto`
 
 ## Linguagens de Programação Conhecidas:
 
